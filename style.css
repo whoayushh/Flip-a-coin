@@ -90,3 +90,14 @@ button{
     background: #674706;
     color:white;
 }
+
+@media screen and (max-width:768px){
+    .container{
+        width:250px;
+        height:400px;
+    }
+    .coin{
+        height:100px;
+        width:100px;
+    }
+}
